@@ -1,0 +1,9 @@
+DROP TABLE festival;
+DROP TABLE uloga;
+DROP TABLE producirao;
+DROP TABLE film;
+DROP TABLE nagrada;
+DROP TABLE glumac;
+DROP TABLE producent;
+DROP TABLE zanr;
+DROP TABLE tip_uloge;
