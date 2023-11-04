@@ -1,0 +1,76 @@
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form2.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form3.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form4.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form5.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form6.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.MessageForm.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form7.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.MessageForm1.resources
+C:\Users\Korisnik\source\repos\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form8.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.AssemblyReference.cache
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form2.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form3.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form4.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form5.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form6.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form7.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form8.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.MessageForm.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.MessageForm1.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\Programiranje IV-3\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.AssemblyReference.cache
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form2.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form3.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form4.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form5.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form6.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form7.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Form8.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.MessageForm.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.MessageForm1.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\Glavni\Desktop\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\bin\Debug\Aplikacija.exe.config
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\bin\Debug\Aplikacija.exe
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\bin\Debug\Aplikacija.pdb
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.csproj.AssemblyReference.cache
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Form1.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Form2.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Form3.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Form4.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Form5.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Form6.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Form7.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Form8.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.MessageForm.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.MessageForm1.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.Properties.Resources.resources
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.csproj.GenerateResource.cache
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.exe
+C:\Users\matij\Desktop\Aplikacija- Lukovic\Aplikacija\obj\Debug\Aplikacija.pdb
